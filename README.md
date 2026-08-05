@@ -1,4 +1,4 @@
-# 🚗 CAN-Based Vehicle Safety System with IoT Monitoring using STM32
+# 🚗 CAN & IOT IMPLEMENTATION FOR VEHICAL SAFETY.
 
 ### Real-Time Vehicle Monitoring using **STM32F407**, **CAN Bus**, **ESP32**, **MQTT**, **Flask**, and **MySQL**
 
