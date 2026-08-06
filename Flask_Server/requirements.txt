@@ -1,0 +1,5 @@
+Flask
+paho-mqtt
+mysql-connector-python
+
+//pip install -r requirements.txt
